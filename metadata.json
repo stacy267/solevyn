@@ -1,0 +1,6 @@
+{
+  "name": "Solevyn",
+  "description": "Luxury sneaker brand uniting orthopedic comfort with high-end streetwear aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
